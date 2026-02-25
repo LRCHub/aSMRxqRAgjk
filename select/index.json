@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "wrong faces.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T14:23:10.507053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wrong Faces",
+      "artist": "Balthazar",
+      "has_synced": true,
+      "path": "select/01_Wrong_Faces_Balthazar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wrong Faces Wrong Places",
+      "artist": "Unlike Pluto",
+      "has_synced": true,
+      "path": "select/02_Wrong_Faces_Wrong_Places_Unlike_Pluto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wrong Places Wrong Faces",
+      "artist": "Unlike Pluto",
+      "has_synced": true,
+      "path": "select/03_Wrong_Places_Wrong_Faces_Unlike_Pluto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wrong Faces",
+      "artist": "Citycreed",
+      "has_synced": false,
+      "path": "select/04_Wrong_Faces_Citycreed.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "wrong faces.",
+      "artist": "Brent Faiyaz",
+      "has_synced": true,
+      "path": "select/05_wrong_faces._Brent_Faiyaz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "wrong faces.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_wrong_faces._Brent_Faiyaz.txt"
+    }
+  ]
+}
