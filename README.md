@@ -1,0 +1,51 @@
+# Brent Faiyaz – wrong faces.
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.05] Let me hear it from the top
+[00:13.55] 
+[00:13.95] You've been looking for love
+[00:17.28] In all the wrong, the wrong places (oh, yeah, yeah-yeah)
+[00:27.67] You've been looking for love (running, flying)
+[00:31.06] In all the wrong, the wrong faces (I ain't stopping, not until I fall)
+[00:36.67] (Running, flying, oh, I ain't stopping, not until I fall)
+[01:05.17] 
+[00:41.36] Ain't no way out (running, flying)
+[00:46.02] I know that you're searching for one (I ain't stopping, not until I fall, fall)
+[00:54.81] You like to stay out
+[00:59.55] Think about who you're hurting for once (oh-whoa)
+[01:24.05] 
+[01:05.44] Oh, what brought you to me?
+[01:12.58] Give me your reason 'cause I'll be your reason to stay at home (oh-whoa, yeah-yeah)
+[01:18.95] Oh, what brought you to me?
+[01:26.29] Give me a reason 'cause I'll be your reason, you're not alone
+[01:56.79] 
+[01:36.02] You've been looking for love (hmm)
+[01:39.28] In all the wrong, the wrong places (oh, yeah, yeah-yeah)
+[01:50.14] You've been looking for love (running, flying)
+[01:53.39] In all the wrong (in all the wrong), the wrong faces (I ain't stopping, not until I fall)
+[01:58.35] (Running, flying, oh, I ain't stopping, not until I fall)
+[02:26.85] 
+[02:04.13] Maybe you'll figure it out (running, flying)
+[02:07.57] Lately, your head's in the clouds (I ain't stopping, not until I fall, fall)
+[02:11.07] I wish I could lay you down
+[02:14.15] Then maybe you would hear me out
+[02:17.16] We're going backwards
+[02:19.97] Even though you know that hurts
+[02:23.85] Promise, this ain't just your words
+[02:27.96] You live and you learn (oh, oh-whoa) (it'll all make sense)
+[02:57.46] 
+[02:30.92] Oh, what brought you to me?
+[02:35.09] Give me your reason 'cause I'll be your reason to stay at home (oh-whoa, yeah-yeah-yeah-yeah)
+[02:44.63] Oh, what brought you to me?
+[02:48.55] Give me a reason 'cause I'll be your reason, you're not alone
+[03:19.05] 
+[02:58.54] You've been looking for love (hmm)
+[03:01.58] In all the wrong, the wrong places (oh, yeah, yeah-yeah)
+[03:11.73] You've been looking for love (running, flying)
+[03:15.52] In all the wrong (in all the wrong), the wrong faces (I ain't stopping, not until I fall)
+[03:20.54] (Running, flying, oh, I ain't stopping, not until I fall)
+[03:49.04] 
+[03:27.50] (Running, flying, I ain't stopping, not until I fall, fall)
+```
